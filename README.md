@@ -1,2 +1,2 @@
 # kerostesting
-Testing for Keros
+Testing for Keros Playground
